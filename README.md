@@ -28,6 +28,6 @@ usrmsgserialclient
     3. 当其属于某个serial串口发来的连接时
         他则应该被乘坐serialriverconn
 
-**~~分析出了新的结论这个包只需要针对usrio8080这一数据采集终端**  
-之后还会再去设计qtuiriverconn，serialriverconn，guangyisnmpriverconn等~~
+**~~分析出了新的结论这个包只需要针对usrio8080这一数据采集终端~~**  
+~~之后还会再去设计qtuiriverconn，serialriverconn，guangyisnmpriverconn等~~  
 已经更新思路，他会作为这些包的母包
