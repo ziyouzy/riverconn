@@ -1,6 +1,7 @@
 # riverconn
 
-基于数据流动框架思路对net.Conn进行封装
+~~基于数据流动框架思路对net.Conn进行封装~~  
+如上所属并不准确，而应该是基于数据流动框架思路聚合数据流动的相关组件，net.Conn只是usr-io808必不可少的组件之一，其他必不可少的组件还包括heartbeating,crc,stamps等等  
 ***
 **2021年3月6日21点41分：**  
 不过发现最新的commit并没有被push，那也先不push有什么问题直接去折腾river吧  
